@@ -76,8 +76,10 @@ Input (2, 32, 32)
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/babaazmath1-hub/azma786.git
-cd azma786
+git clone https://github.com/babaazmath1-hub/ml4sci-e2e-gsoc2026
+.git
+cd ml4sci-e2e-gsoc2026
+
 ```
 
 ### 2. Install dependencies
